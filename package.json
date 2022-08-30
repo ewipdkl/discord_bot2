@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "node-cron": "^2.0.3"
   }
 }
